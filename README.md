@@ -1,3 +1,7 @@
+# Workout List App
+
+🔗 **Live app:** https://astonishing-pastelito-c4540a.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
