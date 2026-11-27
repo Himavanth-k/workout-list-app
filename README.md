@@ -1,6 +1,8 @@
 # Workout List App
 
-🔗 **Live app:** https://astonishing-pastelito-c4540a.netlify.app/
+## 👉 [Click here to try the app](https://astonishing-pastelito-c4540a.netlify.app/)
+
+Open the link above to use the live Workout List App in your browser. No install needed.
 
 # React + Vite
 
